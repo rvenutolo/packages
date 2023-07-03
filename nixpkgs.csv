@@ -61,7 +61,7 @@ findutils,findutils,y,y,y,y,
 fish shell,fish,y,y,y,y,
 flac2all,flac2all,y,,,,
 FLAC,flac,y,,,,
-Flatpak,flatpak,y,y,y,,
+Flatpak,flatpak,y,y,y,,using flatpak from distro repos for now
 fselect,fselect,y,y,y,,
 fx,fx,y,y,y,,
 fzf,fzf,y,y,y,y,
