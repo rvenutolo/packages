@@ -154,7 +154,7 @@ Spectacle,libsForQt5.spectacle,y,y,y,
 speedtest-cli,speedtest-cli,y,y,y,y
 sshs,sshs,y,y,y,
 Starship,starship,y,y,y,y
-Tar,tar,y,y,y,y
+Tar,gnutar,y,y,y,y
 tcpdump,tcpdump,y,y,y,
 tealdeer,tealdeer,y,y,y,y
 tgpt,tgpt,y,y,y,y
