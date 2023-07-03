@@ -46,6 +46,7 @@ dotenv-linter,dotenv-linter,y,y,y,y
 dua,dua,y,y,y,
 duf,duf,y,y,y,y
 dust,du-dust,y,y,y,y
+dysk,lfs,y,y,y,y
 Editorconfig-Checker,editorconfig-checker,y,y,y,y
 exa,exa,y,y,y,y
 Fail2ban,fail2ban,y,y,y,y
@@ -101,7 +102,6 @@ lazydocker,lazydocker,y,y,y,y
 lazygit,lazygit,y,y,y,y
 Less,less,y,y,y,y
 lf,lf,y,y,y,
-lfs,lfs,y,y,y,
 lsof,lsof,y,y,y,
 man-db,man,y,y,y,
 mdcat,mdcat,y,y,y,
