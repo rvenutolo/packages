@@ -1,4 +1,4 @@
-NAME,PACKAGE,PERSONAL DESKTOP,PERSONAL LAPTOP,WORK LAPTOP,SERVER
+NAME,PACKAGE,PERSONAL DESKTOP,PERSONAL LAPTOP,WORK LAPTOP,SERVER,DISABLED
 7zip,_7zz,y,y,y,
 act,act,y,y,y,
 age,age,y,y,y,y
@@ -121,7 +121,7 @@ OpenSSL,openssl,y,y,y,
 ouch,ouch,y,y,y,
 pandoc,pandoc,y,y,y,
 Parallel,parallel,y,y,y,
-parquet-tools,parquet-tools,y,y,y,y
+parquet-tools,parquet-tools,y,y,y,y,build is broken
 Perl,perl,y,y,y,y
 pigz,pigz,y,y,y,y
 Pipe Viewer,pv,y,y,y,
