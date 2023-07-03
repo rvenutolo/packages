@@ -75,7 +75,7 @@ GNOME Partition Editor,gparted,y,y,y,
 GnuPG,gnupg,y,y,y,y
 gotop,gotop,y,y,y,
 gping,gping,y,y,y,
-Grep,grep,y,y,y,y
+Grep,gnugrep,y,y,y,y
 grex,grex,y,y,y,
 gtop,gtop,y,y,y,
 Gzip,gzip,y,y,y,y
