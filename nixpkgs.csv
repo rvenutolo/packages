@@ -6,7 +6,7 @@ Alacritty,alacritty,y,y,y,,
 Awk,gawk,y,y,y,y,
 AWS CLI v2,awscli2,y,y,y,y,
 bandwhich,bandwhich,y,y,y,,
-bash-completion,bash-completion,y,y,y,y,
+bash-completion,bash-completion,y,y,y,y,might not be useful
 bat,bat,y,y,y,y,
 bc,bc,y,y,y,,
 bind,dig,y,y,y,,
