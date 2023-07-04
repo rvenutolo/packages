@@ -2,7 +2,7 @@ NAME,PACKAGE,PERSONAL DESKTOP,PERSONAL LAPTOP,WORK LAPTOP,SERVER,DISABLED
 7zip,_7zz,y,y,y,,
 act,act,y,y,y,,
 age,age,y,y,y,y,
-Alacritty,alacritty,y,y,y,,
+Alacritty,alacritty,y,y,y,,OpenGL issue when not on NixOS (i think)
 Awk,gawk,y,y,y,y,
 AWS CLI v2,awscli2,y,y,y,y,
 bandwhich,bandwhich,y,y,y,,
@@ -93,7 +93,7 @@ jq,jq,y,y,y,y,
 jqp,jqp,y,y,y,,
 just,just,y,y,y,y,
 Kate,libsForQt5.kate,y,y,y,,
-kitty,kitty,y,y,y,,
+kitty,kitty,y,y,y,,OpenGL issue when not on NixOS (i think)
 Krusader,krusader,y,y,y,,
 LAME,lame,y,,,,
 lastpass-cli,lastpass-cli,y,y,y,y,
