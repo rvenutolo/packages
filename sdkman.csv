@@ -1,0 +1,15 @@
+NAME,PACKAGE
+Gradle,gradle
+Groovy,groovy
+Java,java
+Kotlin,kotlin
+Maven,maven
+Maven Central Search,mcs
+Maven Daemon,mvnd
+Pomchecker,pomchecker
+sbt,sbt
+Scala,scala
+Skeletal,skeletal
+Spark,spark
+Spring Boot,springboot
+VisualVM,visualvm
