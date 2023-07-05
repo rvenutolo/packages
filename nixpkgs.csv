@@ -71,7 +71,7 @@ Git,git,y,y,y,y,
 gitui,gitui,y,y,y,y,
 Glances,glances,y,y,y,y,
 glow,glow,y,y,y,,
-GNOME Partition Editor,gparted,y,y,y,,
+GNOME Partition Editor,gparted,y,y,y,,display issue
 GnuPG,gnupg,y,y,y,y,
 gotop,gotop,y,y,y,,
 gping,gping,y,y,y,,
