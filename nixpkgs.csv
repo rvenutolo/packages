@@ -23,7 +23,7 @@ cheat,cheat,y,y,y,y,
 checkbashisms,checkbashisms,y,y,y,y,
 chezmoi,chezmoi,y,y,y,y,
 choose,choose,y,y,y,,
-ClamAV,clamav,y,y,y,,
+ClamAV,clamav,y,y,y,,Using distro version for systemd service
 Clipboard,clipboard-jh,y,y,y,,
 Cmake,cmake,y,y,y,,
 colordiff,colordiff,y,y,y,y,
