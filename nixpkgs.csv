@@ -130,7 +130,7 @@ pigz,pigz,y,y,y,y,
 Pipe Viewer,pv,y,y,y,,
 pipr,pipr,y,y,y,y,
 Podman Compose,podman-compose,y,y,y,y,
-Podman,podman,y,y,y,y,
+Podman,podman,y,y,y,y,Using distro version for /etc files
 Podman Terminal UI,podman-tui,y,y,y,y,
 procs,procs,y,y,y,,
 QDirStat,qdirstat,y,y,y,,
