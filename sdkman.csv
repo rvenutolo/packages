@@ -1,7 +1,6 @@
 NAME,PACKAGE
 Gradle,gradle
 Groovy,groovy
-Java,java
 Kotlin,kotlin
 Maven,maven
 Maven Central Search,mcs
