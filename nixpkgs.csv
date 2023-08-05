@@ -3,6 +3,7 @@ NAME,PACKAGE,PERSONAL DESKTOP,PERSONAL LAPTOP,WORK LAPTOP,SERVER,DISABLED
 act,act,y,y,y,,
 age,age,y,y,y,y,
 Alacritty,alacritty,y,y,y,,OpenGL issue when not on NixOS (i think)
+Alejanda,alejandra,y,y,y,y,
 Awk,gawk,y,y,y,y,
 AWS CLI v2,awscli2,y,y,y,y,
 bandwhich,bandwhich,y,y,y,,
