@@ -130,7 +130,7 @@ OpenSSL,openssl,y,y,y,y,
 ouch,ouch,y,y,y,y,
 pandoc,pandoc,y,y,y,y,
 Parallel,parallel,y,y,y,y,
-parquet-tools,parquet-tools,y,y,y,y,build is broken
+parquet-tools,parquet-tools,y,y,y,y,
 Perl,perl,y,y,y,y,
 pigz,pigz,y,y,y,y,
 Pipe Viewer,pv,y,y,y,y,
