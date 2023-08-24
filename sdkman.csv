@@ -1,14 +1,14 @@
-NAME,PACKAGE
-Gradle,gradle
-Groovy,groovy
-Kotlin,kotlin
-Maven,maven
-Maven Central Search,mcs
-Maven Daemon,mvnd
-Pomchecker,pomchecker
-sbt,sbt
-Scala,scala
-Skeletal,skeletal
-Spark,spark
-Spring Boot,springboot
-VisualVM,visualvm
+NAME,PACKAGE,PERSONAL,SERVER,DISABLED
+Gradle,gradle,y,y,
+Groovy,groovy,y,y,
+Kotlin,kotlin,y,y,
+Maven,maven,y,y,
+Maven Central Search,mcs,y,y,
+Maven Daemon,mvnd,y,y,
+Pomchecker,pomchecker,y,y,
+sbt,sbt,y,,
+Scala,scala,y,,
+Skeletal,skeletal,y,,
+Spark,spark,y,,
+Spring Boot,springboot,y,,
+VisualVM,visualvm,y,,
