@@ -76,7 +76,7 @@ gitui,gitui,y,y,y,y,
 Glances,glances,y,y,y,y,
 glow,glow,y,y,y,y,
 GNOME Partition Editor,gparted,y,y,y,,display issue
-gnome-extensions-cli,gnome-extensions-cli,,,y,,
+gnome-extensions-cli,gnome-extensions-cli,,,y,,current build broken
 GnuPG,gnupg,y,y,y,y,
 gping,gping,y,y,y,y,
 Grep,gnugrep,y,y,y,y,
