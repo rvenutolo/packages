@@ -126,7 +126,7 @@ mtr,mtr,y,y,y,y,
 nano,nano,y,y,y,y,
 navi,navi,y,y,y,y,
 NCurses Disk Usage,ncdu,y,y,y,y,
-NerdFonts,nerdfonts,y,y,y,,Temporary disable
+NerdFonts,nerdfonts,y,y,y,,
 nixpkgs-fmt,nixpkgs-fmt,y,y,y,y,
 Nmap,nmap,y,y,y,y,
 nnn,nnn,y,y,y,y,
