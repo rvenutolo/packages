@@ -100,7 +100,7 @@ jqp,jqp,y,y,y,y,
 just,just,y,y,y,y,
 Kate,libsForQt5.kate,y,y,y,,
 kitty,kitty,y,y,y,,OpenGL issue when not on NixOS (i think)
-Krusader,krusader,y,y,y,,coredump
+Krusader,krusader,y,y,y,,
 LAME,lame,y,,,,
 lastpass-cli,lastpass-cli,y,y,y,y,
 lazycli,lazycli,y,y,y,y,
