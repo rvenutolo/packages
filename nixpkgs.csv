@@ -153,7 +153,7 @@ Quickemu,quickemu,y,y,y,,
 ranger,ranger,y,y,y,y,
 riff,riff,y,y,y,y,
 ripgrep,ripgrep,y,y,y,y,
-ripgrep-all,ripgrep-all,y,y,y,y,current build broken
+ripgrep-all,ripgrep-all,y,y,y,y,
 RnR,rnr,y,y,y,y,
 rsync,rsync,y,y,y,y,
 runiq,runiq,y,y,y,y,
