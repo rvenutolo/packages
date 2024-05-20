@@ -33,7 +33,7 @@ Okular,org.kde.okular,y,y,y,,
 Picard,org.musicbrainz.Picard,y,,,,
 Plexamp,com.plexamp.Plexamp,y,y,y,,
 Plex Desktop,tv.plex.PlexDesktop,y,y,y,,
-Podman Desktop,io.podman_desktop.PodmanDesktop,y,y,y,,
+Podman Desktop,io.podman_desktop.PodmanDesktop,y,y,y,,using Docker
 Pods,com.github.marhkb.Pods,y,y,y,,
 Postman,com.getpostman.Postman,y,y,y,,
 ProtonPlus,com.vysp3r.ProtonPlus,y,,,,
