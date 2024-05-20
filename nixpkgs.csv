@@ -72,7 +72,7 @@ GitHub CLI,gh,y,y,y,y,
 gitui,gitui,y,y,y,y,
 Glances,glances,y,y,y,y,
 glow,glow,y,y,y,y,
-gnome-extensions-cli,gnome-extensions-cli,,,y,,current build broken
+gnome-extensions-cli,gnome-extensions-cli,,,y,,
 GnuPG,gnupg,y,y,y,y,
 gping,gping,y,y,y,y,
 Grep,gnugrep,y,y,y,y,
