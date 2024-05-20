@@ -138,9 +138,9 @@ Perl,perl,y,y,y,y,
 pigz,pigz,y,y,y,y,
 Pipe Viewer,pv,y,y,y,y,
 pipr,pipr,y,y,y,y,
-Podman Compose,podman-compose,y,y,y,y,Using docker for now
-Podman,podman,y,y,y,y,Using distro version for /etc files
-Podman Terminal UI,podman-tui,y,y,y,y,Using docker for now
+Podman Compose,podman-compose,y,y,y,y,using docker
+Podman,podman,y,y,y,y,using docker
+Podman Terminal UI,podman-tui,y,y,y,y,using docker
 procs,procs,y,y,y,y,
 QDirStat,qdirstat,y,y,y,,
 Quickemu,quickemu,y,y,y,,
