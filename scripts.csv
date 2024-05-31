@@ -1,0 +1,4 @@
+NAME,EXECUTABLE,URL,ARGS,PERSONAL DESKTOP,PERSONAL LAPTOP,WORK LAPTOP,SERVER,DISABLED
+CasaOS,casaos,https://get.casaos.io,,,,,Try later
+Docker,dockerd,https://get.docker.com,,y,y,y,y,
+Tailscale,tailscale,https://tailscale.com/install.sh,,y,y,y,y,
