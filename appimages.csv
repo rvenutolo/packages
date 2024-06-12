@@ -1,3 +1,3 @@
-NAME,PACKAGE,PERSONAL DESKTOP,PERSONAL LAPTOP,WORK LAPTOP,SERVER,DISABLED
-JetBrains Toolbox,jetbrains-toolbox,y,y,y,,
-Warp,warp-terminal,y,y,y,,
+NAME,TYPE,PACKAGE,PERSONAL DESKTOP,PERSONAL LAPTOP,WORK LAPTOP,SERVER,DISABLED
+JetBrains Toolbox,appimage,jetbrains-toolbox,y,y,y,,
+Warp,appimage,warp-terminal,y,y,y,,
