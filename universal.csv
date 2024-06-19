@@ -132,10 +132,10 @@ Linode CLI,nixpkgs,linode-cli,y,y,y,y,
 lite-xl,nixpkgs,lite-xl,y,y,y,,
 lsof,nixpkgs,lsof,y,y,y,y,
 Lutris,flatpak,net.lutris.Lutris,y,,,,
-LXC,nixpkgs,lxc,y,y,y,y,
-LXCFS,nixpkgs,lxcfs,y,y,y,y,
-LXD-LTS,nixpkgs,lxd-unwrapped-lts,y,y,y,y,
-LXD-UI,nixpkgs,lxd-ui,y,y,y,y,
+LXC,nixpkgs,lxc,y,y,y,y,seems to not work
+LXCFS,nixpkgs,lxcfs,y,y,y,y,lxc disabled
+LXD-LTS,nixpkgs,lxd-lts,y,y,y,y,lxc disabled
+LXD-UI,nixpkgs,lxd-ui,y,y,y,y,lxc disabled
 mbuffer,nixpkgs,mbuffer,y,y,y,y,
 mdcat,nixpkgs,mdcat,y,y,y,y,
 MediaInfo,flatpak,net.mediaarea.MediaInfo,y,,,,
