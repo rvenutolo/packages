@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+
+set -euo pipefail
+
+#shellcheck disable=SC1091
+source "${SCRIPTS_DIR}/functions.bash"
+check_no_args "$@"
+
+function get_columns() {
+  check_exactly_1_arg "$@"
+  sed 's/[^,]//g' <<< "$1" | awk '{ print length }'
+}
+
+for csv_file in "$(this_script_dir)/"*.csv; do
+  expected_num_columns="$(get_columns "$(head --lines 1 "${csv_file}")")"
+  while read -r line; do
+    line_num_columns="$(get_columns "${line}")"
+    if [[ "${line_num_columns}" != "${expected_num_columns}" ]]; then
+      log "Expected ${expected_num_columns} columns; got ${line_num_columns} columns -- ${line}"
+    fi
+  done <<< "$(tail -n +2 "${csv_file}")"
+done
