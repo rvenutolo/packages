@@ -78,7 +78,7 @@ fish shell,nixpkgs,fish,y,y,y,y,
 flac2all,nixpkgs,flac2all,y,,,,
 FLAC,nixpkgs,flac,y,,,,
 Flameshot,flatpak,org.flameshot.Flameshot,y,y,y,,
-Flatpak,nixpkgs,flatpak,y,y,y,y,
+Flatpak,nixpkgs,flatpak,y,y,y,y,use distro version
 Flatseal,flatpak,com.github.tchx84.Flatseal,y,y,y,,
 fselect,nixpkgs,fselect,y,y,y,y,
 fx,nixpkgs,fx,y,y,y,y,
