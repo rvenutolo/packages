@@ -62,7 +62,7 @@ dysk,nixpkgs,dysk,y,y,y,y,
 EasyTAG,flatpak,org.gnome.EasyTAG,y,,,,
 Editorconfig-Checker,nixpkgs,editorconfig-checker,y,y,y,y,
 eza,nixpkgs,eza,y,y,y,y,
-Fail2ban,nixpkgs,fail2ban,y,y,y,y,
+Fail2ban,nixpkgs,fail2ban,y,y,y,y,use distro package
 fastfetch,nixpkgs,fastfetch,y,y,y,y,
 fclones,nixpkgs,fclones,y,y,y,y,
 fcp,nixpkgs,fcp,y,y,y,y,
