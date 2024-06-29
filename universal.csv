@@ -131,6 +131,7 @@ LibreWolf,flatpak,io.gitlab.librewolf-community,y,y,y,,
 Linode CLI,nixpkgs,linode-cli,y,y,y,y,
 lite-xl,nixpkgs,lite-xl,y,y,y,,
 lsof,nixpkgs,lsof,y,y,y,y,
+Lua,nixpkgs,lua,y,y,y,y,
 Lutris,flatpak,net.lutris.Lutris,y,,,,
 LXC,nixpkgs,lxc,y,y,y,y,use distro package
 LXCFS,nixpkgs,lxcfs,y,y,y,y,
