@@ -167,7 +167,7 @@ ouch,nixpkgs,ouch,y,y,y,y,
 p7zi,nixpkgs,p7zip,y,y,y,y,
 pandoc,nixpkgs,pandoc,y,y,y,y,
 Parallel,nixpkgs,parallel,y,y,y,y,
-parquet-tools,nixpkgs,parquet-tools,y,y,y,y,
+parquet-tools,nixpkgs,parquet-tools,y,y,y,y,build broken
 Perl,nixpkgs,perl,y,y,y,y,
 Picard,flatpak,org.musicbrainz.Picard,y,,,,
 pigz,nixpkgs,pigz,y,y,y,y,
