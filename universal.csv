@@ -136,6 +136,7 @@ Lua,nixpkgs,lua,y,y,y,y,
 Lutris,flatpak,net.lutris.Lutris,y,,,,
 LXC,nixpkgs,lxc,y,y,y,y,use distro package
 LXCFS,nixpkgs,lxcfs,y,y,y,y,
+lz4,nixpkgs,lz4,y,y,y,y,
 mbuffer,nixpkgs,mbuffer,y,y,y,y,
 mdcat,nixpkgs,mdcat,y,y,y,y,
 MediaInfo,flatpak,net.mediaarea.MediaInfo,y,,,,
