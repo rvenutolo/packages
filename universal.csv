@@ -113,7 +113,7 @@ hyperfine,nixpkgs,hyperfine,y,y,y,y,
 iftop,nixpkgs,iftop,y,y,y,y,
 ImageMagick,nixpkgs,imagemagick,y,y,y,,
 iputils,nixpkgs,iputils,y,y,y,y,
-JetBrains Toolbox,appimage,jetbrains-toolbox,y,y,y,,
+JetBrains Toolbox,appimage,jetbrains-toolbox,y,y,y,,installing with script
 jless,nixpkgs,jless,y,y,y,y,
 Joplin,flatpak,net.cozic.joplin_desktop,y,y,y,,
 jq,nixpkgs,jq,y,y,y,y,
