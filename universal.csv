@@ -258,6 +258,7 @@ Visual Studio Code,flatpak,com.visualstudio.code,y,y,y,,
 Vivaldi,flatpak,com.vivaldi.Vivaldi,y,y,y,,
 VLC,flatpak,org.videolan.VLC,y,y,y,,
 VSCodium,flatpak,com.vscodium.codium,y,y,y,,
+Warehouse,flatpak,io.github.flattool.Warehouse,y,y,y,,
 Warp,appimage,warp-terminal,y,y,y,,
 WezTerm,flatpak,org.wezfurlong.wezterm,y,y,y,,flatpak sandboxing prevents some functionality I want
 WezTerm,appimage,wezterm,y,y,y,,
