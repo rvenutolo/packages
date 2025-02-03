@@ -101,7 +101,7 @@ gitui,nixpkgs,gitui,y,y,y,y,
 Glances,nixpkgs,glances,y,y,y,y,
 glow,nixpkgs,glow,y,y,y,y,
 gnome-extensions-cli,nixpkgs,gnome-extensions-cli,,,y,,
-GnuPG,nixpkgs,gnupg,y,y,y,y,disabling to check if this is interfering with generating gpg key on ubuntu
+GnuPG,nixpkgs,gnupg,y,y,y,y,
 Go,nixpkgs,go,y,y,y,y,
 gping,nixpkgs,gping,y,y,y,y,
 Grep,nixpkgs,gnugrep,y,y,y,y,
