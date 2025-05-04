@@ -120,7 +120,7 @@ HTTPie Desktop,flatpak,io.httpie.Httpie,y,y,y,,
 Hydra,nixpkgs,thc-hydra,y,y,y,y,
 hyperfine,nixpkgs,hyperfine,y,y,y,y,
 iftop,nixpkgs,iftop,y,y,y,y,
-Ignition,flatkap,io.github.flattool.Ignition,y,y,y,,
+Ignition,flatpak,io.github.flattool.Ignition,y,y,y,,
 ImageMagick,nixpkgs,imagemagick,y,y,y,,
 JetBrains Toolbox,appimage,jetbrains-toolbox,y,y,y,,installing with script
 jless,nixpkgs,jless,y,y,y,y,
