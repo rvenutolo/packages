@@ -302,7 +302,7 @@ Vesktop,flatpak,dev.vencord.Vesktop,y,y,y,,
 Virtual Machine Manager,nixpkgs,virt-manager,y,y,y,,
 Visual Studio Code,flatpak,com.visualstudio.code,y,y,y,,
 Vivaldi,flatpak,com.vivaldi.Vivaldi,y,y,y,,
-VLC,flatpak,org.videolan.VLC,y,y,y,,
+VLC,flatpak,org.videolan.VLC,y,y,y,,using distro package
 VSCodium,flatpak,com.vscodium.codium,y,y,y,,
 Warehouse,flatpak,io.github.flattool.Warehouse,y,y,y,,
 Warp,appimage,warp-terminal,y,y,y,,
