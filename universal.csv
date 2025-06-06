@@ -300,7 +300,7 @@ unrar,nixpkgs,unrar,y,y,y,y,
 UnZip,nixpkgs,unzip,y,y,y,y,
 Upscaler,flatpak,io.gitlab.theevilskeleton.Upscaler,y,y,y,,
 Ventoy,nixpkgs,ventoy-full,y,y,y,,
-Vesktop,flatpak,dev.vencord.Vesktop,y,y,y,,
+Vesktop,flatpak,dev.vencord.Vesktop,y,y,y,,insecure
 Virtual Machine Manager,nixpkgs,virt-manager,y,y,y,,
 Visual Studio Code,flatpak,com.visualstudio.code,y,y,y,,
 Vivaldi,flatpak,com.vivaldi.Vivaldi,y,y,y,,
