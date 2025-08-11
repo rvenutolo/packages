@@ -1,6 +1,7 @@
 PACKAGE,PERSONAL DESKTOP,PERSONAL LAPTOP,WORK LAPTOP,SERVER,DISABLED
 age,y,y,y,y,
 alacritty,y,y,y,,
+apt-transport-https,y,y,y,y,
 binutils,y,y,y,y,
 bridge-utils,y,y,y,,
 ca-certificates,y,y,y,y,
