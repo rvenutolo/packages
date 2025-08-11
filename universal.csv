@@ -246,7 +246,7 @@ Podman,nixpkgs,podman,y,y,y,y,using docker
 Podman Terminal UI,nixpkgs,podman-tui,y,y,y,y,using docker
 Pods,flatpak,com.github.marhkb.Pods,y,y,y,,
 Postman,flatpak,com.getpostman.Postman,y,y,y,,
-prettybat,nixpkgs,bat-extras.prettybath,y,y,y,y,
+prettybat,nixpkgs,bat-extras.prettybat,y,y,y,y,
 procs,nixpkgs,procs,y,y,y,y,
 ProtonPlus,flatpak,com.vysp3r.ProtonPlus,y,,,,
 Protontricks,flatpak,com.github.Matoking.protontricks,y,,,,
