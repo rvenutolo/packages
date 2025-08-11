@@ -8,6 +8,7 @@ Awk,nixpkgs,gawk,y,y,y,y,
 AWS CLI v2,nixpkgs,awscli2,y,y,y,y,
 bandwhich,nixpkgs,bandwhich,y,y,y,y,
 bash-completion,nixpkgs,bash-completion,y,y,y,y,might not be useful
+Bash Line Editor,nixpkgs,blesh,y,y,y,y,
 bat,nixpkgs,bat,y,y,y,y,
 batdiff,nixpkgs,bat-extras.batdiff,y,y,y,y,
 batgrep,nixpkgs,bat-extras.batgrep,y,y,y,y,
