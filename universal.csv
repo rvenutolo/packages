@@ -3,6 +3,7 @@ NAME,TYPE,PACKAGE,PERSONAL DESKTOP,PERSONAL LAPTOP,WORK LAPTOP,SERVER,DISABLED
 act,nixpkgs,act,y,y,y,y,
 age,nixpkgs,age,y,y,y,y,
 Alejanda,nixpkgs,alejandra,y,y,y,y,
+Atuin,nixpkgs,atuin,y,y,y,y,
 Awk,nixpkgs,gawk,y,y,y,y,
 AWS CLI v2,nixpkgs,awscli2,y,y,y,y,
 bandwhich,nixpkgs,bandwhich,y,y,y,y,
