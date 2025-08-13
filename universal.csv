@@ -91,6 +91,7 @@ EasyTAG,flatpak,org.gnome.EasyTAG,y,,,,
 Editorconfig-Checker,nixpkgs,editorconfig-checker,y,y,y,y,
 eget,nixpkgs,eget,y,y,y,y,
 entr,nixpkgs,entr,y,y,y,y,
+eva,nixpkgs,eva,y,y,y,y,
 eza,nixpkgs,eza,y,y,y,y,
 Fail2ban,nixpkgs,fail2ban,y,y,y,y,use distro package
 fastfetch,nixpkgs,fastfetch,y,y,y,y,
