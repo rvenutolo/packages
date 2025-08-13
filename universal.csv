@@ -113,6 +113,7 @@ Flameshot,flatpak,org.flameshot.Flameshot,y,y,y,,
 Flatpak,nixpkgs,flatpak,y,y,y,y,use distro version
 Flatseal,flatpak,com.github.tchx84.Flatseal,y,y,y,,
 fq,nixpkgs,fq,y,y,y,y,
+frogmouth,nixpkgs,frogmouth,y,y,y,y,
 fselect,nixpkgs,fselect,y,y,y,y,
 fx,nixpkgs,fx,y,y,y,y,
 fzf,nixpkgs,fzf,y,y,y,y,
