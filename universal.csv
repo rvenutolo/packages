@@ -46,7 +46,6 @@ choose,nixpkgs,choose,y,y,y,y,
 Chrome,flatpak,com.google.Chrome,y,y,y,,
 Chromium,flatpak,org.chromium.Chromium,y,y,y,,
 ClamAV,nixpkgs,clamav,y,y,y,y,use distro package
-ClamTK,flatpak,com.gitlab.davem.ClamTk,y,y,y,,
 Clapper,flatpak,com.github.rafostar.Clapper,y,y,,,
 Clipboard,nixpkgs,clipboard-jh,y,y,y,y,
 clipse,nixpkgs,clipse,y,y,y,y,
