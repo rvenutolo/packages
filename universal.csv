@@ -123,6 +123,7 @@ Gear Lever,flatpak,it.mijorus.gearlever,y,y,y,,
 gdu,nixpkgs,gdu,y,y,y,y,
 GGH,nixpkgs,ggh,y,y,y,y,
 gh-dash,nixpkgs,gh-dash,y,y,y,y
+ghfetch,nixpkgs,ghfetch,y,y,y,y
 Ghostscript,nixpkgs,ghostscript,y,y,y,,
 GIMP,flatpak,org.gimp.GIMP,y,y,y,,
 GitHub CLI,nixpkgs,gh,y,y,y,y,
