@@ -167,6 +167,7 @@ Ignition,flatpak,io.github.flattool.Ignition,y,y,y,,
 igrep,nixpkgs,igrep,y,y,y,y,
 ImageMagick,nixpkgs,imagemagick,y,y,y,,
 Impala,nixpkgs,impala,y,y,y,,
+isd,nixpkgs,isd,y,y,y,y,
 JetBrains Toolbox,appimage,jetbrains-toolbox,y,y,y,,installing with script
 jless,nixpkgs,jless,y,y,y,y,
 Joplin,flatpak,net.cozic.joplin_desktop,y,y,y,,
