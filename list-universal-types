@@ -6,4 +6,7 @@ set -euo pipefail
 source "${SCRIPTS_DIR}/functions.bash"
 check_no_args "$@"
 
-tail --lines '+2' "$(this_script_dir)/universal.csv" | cut --delimiter ',' --fields 2  | sort | uniq
+tail --lines '+2' "$(this_script_dir)/universal.csv" \
+  | cut --delimiter ',' --fields 2  \
+  | sort \
+  | uniq
