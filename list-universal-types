@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+set -euo pipefail
+
+#shellcheck disable=SC1091
+source "${SCRIPTS_DIR}/functions.bash"
+check_no_args "$@"
+
+tail --lines '+2' "$(this_script_dir)/universal.csv" | cut --delimiter ',' --fields 2  | sort | uniq
