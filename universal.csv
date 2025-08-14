@@ -169,6 +169,7 @@ ImageMagick,nixpkgs,imagemagick,y,y,y,,
 Impala,nixpkgs,impala,y,y,y,,
 isd,nixpkgs,isd,y,y,y,y,
 jaq,nixpkgs,jaq,y,y,y,y,
+jc,nixpkgs,jc,y,y,y,y,
 JetBrains Toolbox,appimage,jetbrains-toolbox,y,y,y,,installing with script
 jless,nixpkgs,jless,y,y,y,y,
 Joplin,flatpak,net.cozic.joplin_desktop,y,y,y,,
