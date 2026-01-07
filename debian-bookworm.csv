@@ -16,7 +16,7 @@ curl,y,y,y,y,
 dbus-user-session,y,y,y,y,
 fail2ban,y,y,y,y,
 file,y,y,y,y,
-findutils,y,y,y,y
+findutils,y,y,y,y,
 flatpak,y,y,y,,
 fzf,y,y,y,y,
 git,y,y,y,y,
