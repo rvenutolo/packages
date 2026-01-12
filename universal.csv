@@ -391,6 +391,7 @@ WezTerm,appimage,wezterm,y,y,y,,
 WezTerm,flatpak,org.wezfurlong.wezterm,y,y,y,,flatpak sandboxing prevents some functionality I want
 Wget,nixpkgs,wget,y,y,y,y,
 which,nixpkgs,which,y,y,y,y,
+wiremix,nixpkgs,wiremix,y,y,y,,
 Wireshark,flatpak,org.wireshark.Wireshark,y,,,,
 wtfis,nixpkgs,wtfis,y,y,y,y,
 xan,nixpkgs,xan,y,y,y,y,
