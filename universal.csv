@@ -1,4 +1,4 @@
-NAME,TYPE,PACKAGE,PERSONAL DESKTOP,PERSONAL LAPTOP,WORK LAPTOP,SERVER,DISABLED
+gitNAME,TYPE,PACKAGE,PERSONAL DESKTOP,PERSONAL LAPTOP,WORK LAPTOP,SERVER,DISABLED
 7zip,nixpkgs,_7zz,y,y,y,y,
 act,nixpkgs,act,y,y,y,y,
 age,nixpkgs,age,y,y,y,y,
@@ -238,6 +238,7 @@ Mosh,nixpkgs,mosh,,y,y,,
 MOST,nixpkgs,most,y,y,y,y,
 mp3splt,nixpkgs,mp3splt,y,,,,
 mtr,nixpkgs,mtr,y,y,y,y,
+multimarkdown,nixpkgs,multimarkdown,y,y,y,y,
 MultiTail,nixpkgs,multitail,y,y,y,y,
 nano,nixpkgs,nano,y,y,y,y,
 navi,nixpkgs,navi,y,y,y,y,
