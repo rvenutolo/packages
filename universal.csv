@@ -8,7 +8,7 @@ asn,nixpkgs,asn,y,y,y,y,
 astroterm,nixpkgs,astroterm,y,y,y,,
 Atuin,nixpkgs,atuin,y,y,y,y,
 Awk,nixpkgs,gawk,y,y,y,y,
-AWS CLI v2,nixpkgs,awscli2,y,y,y,y,
+AWS CLI v2,nixpkgs-unstable,awscli2,y,y,y,y,
 bandwhich,nixpkgs,bandwhich,y,y,y,y,
 bash-completion,nixpkgs,bash-completion,y,y,y,y,might not be useful
 Bash Line Editor,nixpkgs,blesh,y,y,y,y,
