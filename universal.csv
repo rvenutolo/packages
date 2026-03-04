@@ -395,6 +395,7 @@ VLC,flatpak,org.videolan.VLC,y,y,y,,using distro package
 VSCodium,flatpak,com.vscodium.codium,y,y,y,,
 Warehouse,flatpak,io.github.flattool.Warehouse,y,y,y,,
 Warp,appimage,warp-terminal,y,y,y,,
+wego,nixpkgs,wego,y,y,y,y,
 WezTerm,appimage,wezterm,y,y,y,,
 WezTerm,flatpak,org.wezfurlong.wezterm,y,y,y,,flatpak sandboxing prevents some functionality I want
 Wget,nixpkgs,wget,y,y,y,y,
