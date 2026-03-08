@@ -224,8 +224,8 @@ LFTP,nixpkgs,lftp,y,y,y,y,
 LibreOffice,flatpak,org.libreoffice.LibreOffice,y,y,y,,
 LibreWolf,flatpak,io.gitlab.librewolf-community,y,y,y,,
 Linode CLI,nixpkgs,linode-cli,y,y,y,y,
-Lite-XL,nixpkgs,lite-xl,y,y,y,,Trying appimage
-Lite-XL,appimage,lite-xl,y,y,y,,
+Lite-XL,nixpkgs,lite-xl,y,y,y,,
+Lite-XL,appimage,lite-xl,y,y,y,,Trying nixpkgs
 LocalSend,flatpak,org.localsend.localsend_app,y,y,y,,
 Logs,flatpak,org.gnome.Logs,y,y,y,,
 lsof,nixpkgs,lsof,y,y,y,y,
