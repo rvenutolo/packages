@@ -49,7 +49,7 @@ Chrome,flatpak,com.google.Chrome,y,y,y,,
 Chromium,flatpak,org.chromium.Chromium,y,y,y,,
 ClamAV,nixpkgs,clamav,y,y,y,y,use distro package
 Clapgrep,flatpak,de.leopoldluley.Clapgrep,y,y,y,,
-Claude Code,nixpkgs-unstable,claude-code,y,y,y,,
+Claude Code,nixpkgs-unstable,claude-code,y,y,y,,Using binary from Claude
 Claude Code ACP,nixpkgs-unstable,claude-code-acp,y,y,y,,
 Claude Code Router,nixpkgs-unstable,claude-code-router,y,y,y,,
 Claude Monitor,nixpkgs-unstable,claude-monitor,y,y,y,,
