@@ -52,7 +52,7 @@ ClamAV,nixpkgs,clamav,y,y,y,y,use distro package
 clang-tools,nixpkgs,clang-tools,y,y,y,y,
 Clapgrep,flatpak,de.leopoldluley.Clapgrep,y,y,y,,
 Claude Code,nixpkgs-unstable,claude-code,y,y,y,,Using binary from Claude
-Claude Code ACP,nixpkgs-unstable,claude-code-acp,y,y,y,,
+Claude Code ACP,nixpkgs-unstable,claude-agent-acp,y,y,y,,
 Claude Code Router,nixpkgs-unstable,claude-code-router,y,y,y,,
 Claude Monitor,nixpkgs-unstable,claude-monitor,y,y,y,,
 Clapper,flatpak,com.github.rafostar.Clapper,y,y,,,
