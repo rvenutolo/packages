@@ -56,6 +56,7 @@ Clapgrep,flatpak,de.leopoldluley.Clapgrep,y,y,y,,
 Claude Code,nixpkgs-unstable,claude-code,y,y,y,,Using binary from Claude
 Claude Code ACP,nixpkgs-unstable,claude-agent-acp,y,y,y,,
 Claude Code Router,nixpkgs-unstable,claude-code-router,y,y,y,,
+claude-mergetool,nixpkgs-unstable,claude-mergetool,y,y,y,,
 Claude Monitor,nixpkgs-unstable,claude-monitor,y,y,y,,
 Clapper,flatpak,com.github.rafostar.Clapper,y,y,,,
 Clipboard,nixpkgs,clipboard-jh,y,y,y,y,
