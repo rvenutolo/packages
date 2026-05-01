@@ -245,6 +245,7 @@ Lutris,flatpak,net.lutris.Lutris,y,,,,
 LXCFS,nixpkgs,lxcfs,y,y,y,y,
 LXC,nixpkgs,lxc,y,y,y,y,use distro package
 lz4,nixpkgs,lz4,y,y,y,y,
+Marksman,nixpkgs,marksman,y,y,y,,
 Master PDF Editor,flatpak,net.code_industry.MasterPDFEditor,y,y,y,,
 mbuffer,nixpkgs,mbuffer,y,y,y,y,
 mdcat,nixpkgs,mdcat,y,y,y,y,
