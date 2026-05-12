@@ -1,12 +1,15 @@
 #!/usr/bin/env bash
 
-set -euo pipefail
+set -Eeuo pipefail
+IFS=$'\n\t'
 
-#shellcheck disable=SC1091
+# shellcheck disable=SC1091 # functions.bash is not statically followable
 source "${SCRIPTS_DIR}/functions.bash"
-check_no_args "$@"
+log::enable_err_trap
+system::require_bash_version 4 0
+args::check_no_args "$@"
 
-tail --lines '+2' "$(this_script_dir)/universal.csv" \
+tail --lines '+2' "$(misc::this_script_dir)/universal.csv" \
   | cut --delimiter ',' --fields 2  \
   | sort \
   | uniq
