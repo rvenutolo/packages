@@ -98,7 +98,7 @@ Dev Toolbox,flatpak,me.iepure.devtoolbox,y,y,y,,
 diffnav,nixpkgs,diffnav,y,y,y,,
 diff-so-fancy,nixpkgs-unstable,diff-so-fancy,y,y,y,y,
 Difftastic,nixpkgs-unstable,difftastic,y,y,y,y,
-direnv,nixpkgs-unstable,direnv,y,y,y,y,
+direnv,nixpkgs-unstable,direnv,y,y,y,y,using nix-direnv in hm home.nix
 Discord,flatpak,com.discordapp.Discord,y,y,y,,
 Disk Usage Analyzer,flatpak,org.gnome.baobab,y,y,y,,
 Distrobox,nixpkgs-unstable,distrobox,y,y,y,y,
