@@ -1,4 +1,5 @@
 NAME,TYPE,PACKAGE,PERSONAL DESKTOP,PERSONAL LAPTOP,WORK LAPTOP,SERVER,DISABLED
+0xProto,nixpkgs-unstable,_0xproto,y,y,y,,
 7-Zip,nixpkgs,_7zz,y,y,y,y,
 act,nixpkgs,act,y,y,y,,
 age,nixpkgs,age,y,y,y,y,
