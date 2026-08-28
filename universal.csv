@@ -404,7 +404,7 @@ Onefetch,nixpkgs,onefetch,y,y,y,y,
 oneshot,nixpkgs,oneshot,y,y,y,y,
 ONLYOFFICE,flatpak,org.onlyoffice.desktopeditors,y,y,y,,
 OpenSSL,nixpkgs-unstable,openssl,y,y,y,y,use distro package - avoid TLS lib version mismatch with system-linked tools
-OpenTofu,nixpkgs,opentofu,y,y,y,,
+OpenTofu,nixpkgs-unstable,opentofu,y,y,y,,
 ouch,nixpkgs,ouch,y,y,y,y,
 Oxlint,nixpkgs,oxlint,y,y,y,,
 p7zip,nixpkgs,p7zip,y,y,y,y,
