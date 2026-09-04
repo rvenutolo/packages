@@ -26,6 +26,18 @@ name.
 own identifier — a nixpkgs attribute path (`bat-extras.batgrep`, `_7zz`), a flatpak app id (`org.kde.haruna`), or an
 appimage name.
 
+`nixpkgs` and `nixpkgs-unstable` are not resolved here — they are two separate flake inputs in the author's Home Manager
+config. **Never assume which stable release `nixpkgs` points at; read `~/.config/home-manager/flake.nix` and check the
+`nixpkgs.url` ref.** It tracks a pinned `nixos-<YY.MM>` branch that rolls forward twice a year, so a hardcoded guess goes
+stale. Use that exact ref when verifying a package exists in stable
+(`nix eval --raw github:NixOS/nixpkgs/nixos-<YY.MM>#<attr>.version`); `nixpkgs-unstable` tracks `nixos-unstable`.
+
+Stable is the default for a new row. A package moves to `nixpkgs-unstable` only when there is a reason to want a newer
+version than stable ships — it is a per-package decision, not a category rule, which is why comparable tools land on
+different channels (`bat`, `bottom`, `dust`, `sd`, `atuin`, `yazi` on `nixpkgs`; `ripgrep`, `fd`, `eza`, `zoxide`,
+`delta`, `starship` on `nixpkgs-unstable`). Do not switch a row's channel as a drive-by; that is its own `refactor:`
+commit.
+
 ### Host columns
 
 The four host columns are positional and the consumer hardcodes their indexes (4/5/6/7 in `universal.csv`). `y` means
@@ -51,7 +63,8 @@ and only run in an environment where `SCRIPTS_DIR` is exported.
 
 - Adding a package means inserting one row in sort position, not appending. Verify the package really exists in the
   relevant source before adding it (e.g. `nix eval --raw github:NixOS/nixpkgs/nixpkgs-unstable#<attr>.meta.description`
-  for `nixpkgs-unstable`).
+  for `nixpkgs-unstable`). For `nixpkgs`, resolve the stable ref from `~/.config/home-manager/flake.nix` first — see
+  the `TYPE` notes above.
 - Server hosts are headless: GUI apps, flatpaks, and appimages leave `SERVER` empty.
 - Commits are Angular-style and typically one logical package change each, e.g. `feat: add lm-sensors for all hosts`,
   `feat: enable qsv and xan on server`.
