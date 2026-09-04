@@ -557,6 +557,7 @@ which,nixpkgs,which,y,y,y,y,
 WinBoat,appimage,winboat,y,y,y,,
 Wiremix,nixpkgs,wiremix,y,y,y,,
 Wireshark,flatpak,org.wireshark.Wireshark,y,y,,,use distro package - flatpak sandbox blocks raw packet capture without extra permissions
+witr,nixpkgs,witr,y,y,y,y,
 wtfis,nixpkgs,wtfis,y,y,y,y,
 wthrr,nixpkgs,wthrr,y,y,y,,
 xan,nixpkgs,xan,y,y,y,y,
