@@ -68,4 +68,3 @@ and only run in an environment where `SCRIPTS_DIR` is exported.
 - Server hosts are headless: GUI apps, flatpaks, and appimages leave `SERVER` empty.
 - Commits are Angular-style and typically one logical package change each, e.g. `feat: add lm-sensors for all hosts`,
   `feat: enable qsv and xan on server`.
-- `TODO` is a plain scratch list of packages to look into.
