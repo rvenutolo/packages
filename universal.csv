@@ -204,6 +204,7 @@ GnuPG,nixpkgs,gnupg,y,y,y,y,use distro package - system gpg integrates with apt-
 GNU Screen,nixpkgs,screen,y,y,y,y,
 GNU sed,nixpkgs,gnused,y,y,y,y,
 GNU tar,nixpkgs,gnutar,y,y,y,y,
+gofumpt,nixpkgs-unstable,gofumpt,y,y,y,y,
 golangci-lint,nixpkgs-unstable,golangci-lint,y,y,y,y,
 gomodifytags,nixpkgs-unstable,gomodifytags,y,y,y,y,
 Go,nixpkgs-unstable,go,y,y,y,y,
