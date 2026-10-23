@@ -2,6 +2,7 @@ NAME,PACKAGE,PERSONAL DESKTOP,PERSONAL LAPTOP,WORK LAPTOP,SERVER,DISABLED
 Gradle,gradle,y,y,y,y,
 Groovy,groovy,y,y,y,y,
 GroovyServ,groovyserv,y,y,y,y,
+Jenesis,jenesis,y,y,y,y,
 JMeter,jmeter,y,y,y,y,
 JReleaser,jreleaser,y,y,y,y,
 Kotlin,kotlin,y,y,y,y,
