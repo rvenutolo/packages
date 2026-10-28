@@ -52,7 +52,7 @@ empty (every row therefore ends in a trailing comma).
 
 ## Checks
 
-Both scripts here are not standalone: they `source "${SCRIPTS_DIR}/functions.bash"` from the `rvenutolo/scripts` repo
+Both scripts here are not standalone: they `source "${SCRIPTS_DIR}/.functions.bash"` from the `rvenutolo/scripts` repo
 and only run in an environment where `SCRIPTS_DIR` is exported.
 
 - `./check-csv-columns` — verifies every row of every CSV has the same column count as its header. Run this after any
