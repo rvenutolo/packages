@@ -75,7 +75,6 @@ Claude Code Router,nixpkgs-unstable,claude-code-router,y,y,y,y,
 Claude Desktop,appimage,claude-desktop,y,y,y,,buggy - kept opening new windows after close - revisit later (2026-05-14)
 Claude Mergetool,nixpkgs-unstable,claude-mergetool,y,y,y,y,
 Claude Monitor,nixpkgs-unstable,claude-monitor,y,y,y,y,
-Claude Powerline,nixpkgs-unstable,claude-powerline,y,y,y,y,
 Clipboard,nixpkgs,clipboard-jh,y,y,y,y,
 Clippy,nixpkgs,clippy,y,y,y,,
 Clipse,nixpkgs,clipse,y,y,y,y,
