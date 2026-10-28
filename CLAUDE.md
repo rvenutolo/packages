@@ -22,9 +22,9 @@ Distro files are named after the OS id and codename (`debian-bookworm.csv`, `ubu
 URL from `${id}-${codename}.csv` at runtime, so adding support for a new release means adding a file with that exact
 name.
 
-`TYPE` in `universal.csv` is one of `nixpkgs`, `nixpkgs-unstable`, `flatpak`, `appimage`. `PACKAGE` is the installer's
-own identifier — a nixpkgs attribute path (`bat-extras.batgrep`, `_7zz`), a flatpak app id (`org.kde.haruna`), or an
-appimage name.
+`TYPE` in `universal.csv` is one of `nixpkgs`, `nixpkgs-unstable`, `flatpak`, `appimage`, `mise`. `PACKAGE` is the installer's
+own identifier — a nixpkgs attribute path (`bat-extras.batgrep`, `_7zz`), a flatpak app id (`org.kde.haruna`), an
+appimage name, or a mise tool spec (`github:colbymchenry/codegraph`).
 
 `nixpkgs` and `nixpkgs-unstable` are not resolved here — they are two separate flake inputs in the author's Home Manager
 config. **Never assume which stable release `nixpkgs` points at; read `~/.config/home-manager/flake.nix` and check the
